@@ -1,5 +1,5 @@
 <h1>Hi, I'm Yifan! 
-<h2>- 🔭 I’m currently working on giant virus model fitting and protein stucture prediction
+<h2>- 🔭 I’m currently working on giant virus model fitting and phosphorylation sites prediction
  <br/>
 
 <h2>Education</h2>
